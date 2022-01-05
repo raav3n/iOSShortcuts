@@ -2,7 +2,7 @@
 Collection of iOS Shortcuts to be used on Apple devices.
 
 ##Table of Contents
-* [Password Generator] (-#p-gen)
+* [Password Generator](-#password-generator)
 
 ## Password Generator
 This allows you to create a random password using passwordrandom.com and copies to the user's clipboard.
